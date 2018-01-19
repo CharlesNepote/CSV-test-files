@@ -1,7 +1,7 @@
 CSV-test-files
 ==============
 
-CSV test files with different encodings and delimiter.
+CSV test files with different encodings and delimiter. [![goodtables.io](https://goodtables.io/badge/github/CharlesNepote/CSV-test-files.svg)](https://goodtables.io/github/CharlesNepote/CSV-test-files)
 
 The data are always the same. Here it is.
 
